@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Enrique Walter Philippeaux</h1>
-<h3 align="center">An Electronics Engineering student from Argentina</h3>
+<h3 align="center">An advanced Electronics Engineering student from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enriquewph&label=Profile%20views&color=0e75b6&style=flat" alt="enriquewph" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=enriquewph" alt="enriquewph" /></a> </p>
 
-- 🔭 I’m currently working on [PowerMike](https://github.com/enriquewph/PowerMike)
+- 🔭 I’m currently working on [ESP-MAP](https://github.com/enriquewph/esp-map)
 
 - 🌱 I’m currently learning **MQTT, Docker, MongoDB**
 
@@ -13,13 +13,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/enriquewph](https://github.com/enriquewph)
 
-- 💬 Ask me about **C++, Espressif Platform Modules, PlatformIO**
+- 💬 Ask me about **C++, ESP32's, Weather Stations, Python, Analog Layout**
 
 - 📫 How to reach me **enriquewph@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/enriquewph](https://github.com/enriquewph)
-
-- ⚡ Fun fact **I plan to travel to USA on December/22 for my first Work & Travel Program!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
